@@ -1,17 +1,4 @@
+// App.tsx is now handled by router.tsx
+// This file is no longer needed, but keeping it for reference
 
-import Router from "./router";
-
-
-function App() {
-
-
-  return (
-    <>
-
-      <Router />
-
-    </>
-  )
-}
-
-export default App
+import "./App.css";
